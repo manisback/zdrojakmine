@@ -14,7 +14,7 @@ var pages = {
         'content': 'Lorem ipsum set dolorem'
     }
 };
-
+// Ahoooooj
 // GET /pages
 exports.index = function(req, res){
     res.json(pages);
